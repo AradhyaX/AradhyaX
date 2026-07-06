@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Specialization-AI%20%26%20ML-7C3AED?style=for-the-badge&labelColor=1E1B4B" alt="specialization" />
 
 <!-- Location badge -->
-<img src="https://img.shields.io/badge/📍_Location-{{YOUR_CITY}},%20{{YOUR_COUNTRY}}-4C1D95?style=for-the-badge&labelColor=1E1B4B" alt="location" />
+<img src="https://img.shields.io/badge/Location-{{YOUR_CITY}},%20{{YOUR_COUNTRY}}-4C1D95?style=for-the-badge&labelColor=1E1B4B" alt="location" />
 
 <br/><br/>
 
