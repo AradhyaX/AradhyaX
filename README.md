@@ -332,3 +332,5 @@ Open To:    [ SWE / AI Engineering Roles, Open Source, High-Impact Collaboration
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:6D28D9,100:4C1D95&height=120&section=footer" alt="footer" />
 
 </div>
+
+<!-- refreshed -->
